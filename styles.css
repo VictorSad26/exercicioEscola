@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    border-bottom: 1px dashed black;
+    background-color: rgb(27, 200, 212)
+}
+
+h2 {
+    text-align: center; 
+    color: deeppink;   
+
+}
+
+p{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+
+}
+
+#matComp {
+    color: deeppink;
+}
+
+.web {
+    color: deeppink;
+}
+
+#matComp , .web {
+    color: deeppink;
+}
